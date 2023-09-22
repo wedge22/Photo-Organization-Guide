@@ -1,4 +1,4 @@
-##Photo-Organization-Guide
+## Photo-Organization-Guide ##
 Documenting how to organise, rename, and remove duplicate photos.
 
 I am using Windows 10 and the following applications to complete this task.
