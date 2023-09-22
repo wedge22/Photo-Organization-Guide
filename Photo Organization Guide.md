@@ -15,7 +15,14 @@ If two files have the exact same EXIF data then a _1 will be appended to the nam
 ## AllDup ##
 Use this tool to remove duplicate files. There will be two methods listed below, one searches for images and then I remove the smallest files from each group. The second method uses filenames to remove duplicates.
 
+Method 1
+- Search method - Find similar pictures
+- Match 91%
+- Once this completes check several of the groups and determine that these are duplicates, then Select all files in each group other than largest file by size. 
+- Delete all selected files
+This should remove the smallest file size identified as a duplicate
 
+Method 2 (Run after using the Bulk Renaming Utility)
 - Search method - Find similar filenames
 - Comparison - WordMatch
 - Match 90%
